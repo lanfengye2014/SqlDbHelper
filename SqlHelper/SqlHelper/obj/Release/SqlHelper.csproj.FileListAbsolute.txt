@@ -1,0 +1,5 @@
+c:\users\lanfengye\documents\visual studio 2013\Projects\SqlHelper\SqlHelper\bin\Release\SqlHelper.dll
+c:\users\lanfengye\documents\visual studio 2013\Projects\SqlHelper\SqlHelper\bin\Release\SqlHelper.pdb
+c:\users\lanfengye\documents\visual studio 2013\Projects\SqlHelper\SqlHelper\obj\Release\SqlHelper.csprojResolveAssemblyReference.cache
+c:\users\lanfengye\documents\visual studio 2013\Projects\SqlHelper\SqlHelper\obj\Release\SqlHelper.dll
+c:\users\lanfengye\documents\visual studio 2013\Projects\SqlHelper\SqlHelper\obj\Release\SqlHelper.pdb
